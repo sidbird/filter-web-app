@@ -9,7 +9,7 @@ h3{
     background-color: red;
 }
 
-Canvas{
+canvas{
     animation-name: example;
     animation-duration: 4s;
     animation-iteration-count:infinite;
