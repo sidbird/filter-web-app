@@ -24,10 +24,3 @@ function gotPoses(results){
         console.log("nose y =" + results[0].pose.nose.y);
     }
 }
-
-function draw(){image(video, 0, 0, 300, 300);}
-    function take_snapshot(){
-        save('myfilterImage.png');
-    }
-
-    
